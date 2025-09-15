@@ -101,3 +101,4 @@ function toDotCase(str) {
 // Example usage:
 console.log(toDotCase('  Hello_world--test 123  ')); // "hello.world.test.123"
 
+
