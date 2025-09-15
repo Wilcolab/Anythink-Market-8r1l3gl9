@@ -10,8 +10,9 @@
 function toKebabCase(str) {
     // Check if input is a string
     if (typeof str !== 'string') {
-        return '';
+        return ''; 
     }
+    
 
     // Trim leading/trailing whitespace
     str = str.trim();
